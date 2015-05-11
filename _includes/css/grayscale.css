@@ -249,14 +249,14 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 100px;
+    padding-top: 500px;
 }
 
 .download-section {
 	display: table;
 	width: 100%;
 	height: auto;
-    padding: -400px 0;
+    padding: 0px 0;
 	text-align: center;
     color: #fff;
     background: url({{ site.url }}/img/downloads-bg.jpg) no-repeat center center scroll;
