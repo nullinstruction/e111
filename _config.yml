@@ -1,8 +1,8 @@
 # Site settings
 title: EWINIA
 email: info@ewinia.com
-url: http://nullinstruction.github.io/graytheme/
-baseurl: http://nullinstruction.github.io/graytheme/
+url: /graytheme
+baseurl: /graytheme
 description: EWINIA will raise Mountainous Waves in Online and Mobile App Markets. It is in Ewinia’s DNA that Game is not enough. It is Game married with the Education.
 exclude: ['README.md']
 
@@ -22,7 +22,6 @@ social:
     url: https://twitter.com/EWINIA_COM
   - title: google-plus
     url: http://google.com/+EwiniaDotCom
-
 # Build settings
 markdown: redcarpet
 permalink: pretty
