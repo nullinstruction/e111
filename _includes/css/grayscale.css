@@ -249,8 +249,10 @@ a:focus {
 }
 
 .content-section {
-	margin-top: 300px;
-    padding-top: 300px;
+	height: 100%;
+    vertical-align: middle;
+	margin-top: 400px;
+    
 	text-align: center;
 }
 
@@ -260,6 +262,7 @@ a:focus {
 	height: auto;
     padding: 300px 0;
 	text-align: center;
+	vertical-align: middle;
     color: #fff;
     background: url({{ site.url }}/img/downloads-bg.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
@@ -278,7 +281,7 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 100px;
+        padding-top: 25%;
     }
 
     .download-section {
@@ -286,8 +289,8 @@ a:focus {
     }
 
     #map {
-        height: 400px;
-        margin-top: 250px;
+        height: 10px;
+        margin-top: 10px;
     }
 }
 
