@@ -249,12 +249,13 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 100px;
+    padding-top: 0px;
 }
 
 .download-section {
+	height: 500px;
     width: 100%;
-    padding: 50px 0;
+    padding: 100px 0;
     color: #fff;
     background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
