@@ -6,4 +6,5 @@
 	{% if include.entry.priority %}
 		<priority>{{include.entry.priority}}</priority>
 	<priority>0.5</priority>
+	{% endif %}
 </url>

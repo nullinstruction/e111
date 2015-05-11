@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     {% include head.html %}
-    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" ondragstart="return false" onselectstart="return false">
     {% include nav.html %}
     {% include header.html %}
     {% include about.html %}
@@ -11,4 +11,7 @@
     {% include footer.html %}
     {% include js.html %}
     </body>
+	<!--start blocking the mouse right click-->
+	<body oncontextmenu="return false;">
+	<!--end blocking the mouse right click-->
 </html>
