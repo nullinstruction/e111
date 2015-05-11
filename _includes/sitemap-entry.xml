@@ -1,0 +1,9 @@
+<url>
+	<loc>http://nullinstruction.github.io{{site.baseurl}}{{include.entry.url}}</loc>
+	{% if include.entry.changefreq %}
+	<changefreq>monthly</changefreq>
+	{% endif %}
+	{% if include.entry.priority %}
+		<priority>{{include.entry.priority}}</priority>
+	<priority>0.5</priority>
+</url>
