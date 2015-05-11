@@ -22,5 +22,5 @@ social:
     url: http://google.com/+EwiniaDotCom
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
