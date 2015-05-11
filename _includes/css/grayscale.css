@@ -259,7 +259,7 @@ a:focus {
 .download-section {
 	display: table;
 	width: 100%;
-	height: auto;
+	height: 100%;
     padding: 0px 0;
 	text-align: center;
 	vertical-align: middle;
