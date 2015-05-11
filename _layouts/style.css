@@ -1,2 +1,2 @@
-{% include {{ site.url }}/css/bootstrap.min.css %}
-{% include {{ site.url }}/css/grayscale.css %}
+{% include /css/bootstrap.min.css %}
+{% include /css/grayscale.css %}
