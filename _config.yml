@@ -1,7 +1,7 @@
 # Site settings
 title: EWINIA
 email: info@ewinia.com
-url: https://ewinia.com
+url: /graytheme
 baseurl: /graytheme
 description: EWINIA will raise Mountainous Waves in Online and Mobile App Markets. It is in Ewinia’s DNA that Game is not enough. It is Game married with the Education.
 exclude: ['README.md']
@@ -12,7 +12,7 @@ color:
   links: '#ffffff'
 
 # Footer settings
-footer: Your Website
+footer: {{ site.url }}/Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
