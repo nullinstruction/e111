@@ -15,15 +15,11 @@ footer: Your Website
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/EWINIA_COM
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://www.facebook.com/pages/Ewinia/1444460305865853
+  - title: google-plus
+    url: http://google.com/+EwiniaDotCom
 
 # Build settings
 markdown: kramdown
