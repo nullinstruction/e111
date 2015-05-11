@@ -271,6 +271,7 @@ a:focus {
     background-size: cover;
     -o-background-size: cover;
 	
+	background-position: -25%;	
 }
 
 #map {
