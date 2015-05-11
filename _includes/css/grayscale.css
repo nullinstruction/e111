@@ -253,7 +253,7 @@ a:focus {
 }
 
 .download-section {
-	height: 500px;
+	height: auto;
     width: 100%;
     padding: 100px 0;
     color: #fff;
