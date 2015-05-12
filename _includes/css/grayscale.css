@@ -251,7 +251,7 @@ a:focus {
 .content-section {
 	height: 100%;
     vertical-align: middle;
-	margin-top: 0px;
+	margin-top: 25%;
     
 	text-align: center;
 }
