@@ -305,14 +305,14 @@ a:focus {
     transition: all .3s ease-in-out;
 }
 
-.btn-circle {
+.btn-default {
     border: 1px solid {{ site.color.links }};
     color: {{ site.color.links }};
     background-color: transparent;
 }
 
-.btn-circle:hover,
-.btn-circle:focus {
+.btn-default:hover,
+.btn-default:focus {
     border: 1px solid {{ site.color.links }};
     outline: 0;
     color: {{ site.color.primary-dark }};
