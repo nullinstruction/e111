@@ -26,4 +26,4 @@ social:
 markdown: redcarpet
 permalink: pretty
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
