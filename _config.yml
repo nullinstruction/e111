@@ -2,7 +2,7 @@
 title: EWINIA
 email: info@ewinia.com
 url: /graytheme
-baseurl: /graytheme
+baseurl: '/graytheme'
 description: EWINIA will raise Mountainous Waves in Online and Mobile App Markets. It is in Ewinia’s DNA that Game is not enough. It is Game married with the Education.
 exclude: ['README.md']
 
